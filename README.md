@@ -1,8 +1,10 @@
 # This version of octomap
-===========================================================================
-Modified by daysun, which is the basis of https://github.com/daysun/octomap_ros
+
+Modified by daysun, which is the basis of https://github.com/daysun/octomap_ros.
 
 Only the modified part is uploaded, the rest of octomap can be obtained in http://octomap.github.io.
+
+You can compile this in the original way.
 
 OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
 ===========================================================================
